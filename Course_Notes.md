@@ -20,3 +20,10 @@ Week 2 focuses on getting Python installed on your computer and validating this 
 It also introduces the 'Python Playground' application that can be used as a sanbox to test simple python programs
 without the need for installing the software.
 
+#### Week 3 
+
+These are the topics covered in week 3:
+
+![Week 3 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_3_Contents.png)
+
+A high level overview of the structure of a program is provided in this week. This week also includes a "Hello World" assignment.
