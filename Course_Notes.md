@@ -17,3 +17,6 @@ These are the topics covered in week 2:
 ![Week 2 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_2_Contents.png)
 
 Week 2 focuses on getting Python installed on your computer and validating this with a simple program.
+It also introduces the 'Python Playground' application that can be used as a sanbox to test simple python programs
+without the need for installing the software.
+
