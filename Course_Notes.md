@@ -6,5 +6,7 @@ These notes are intended to be a high level overview / quick refresher of the co
 
 These are the topics covered in week 1:
 
-![Week 1 content of 'Getting Started with Python' MOOC]()
+![Week 1 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_1_Contents.png)
+
+The content introduces the learner to the Python programming language and also explains the mechanics of the course.
 
