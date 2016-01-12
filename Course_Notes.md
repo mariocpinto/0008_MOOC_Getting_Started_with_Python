@@ -44,3 +44,18 @@ Specifically, the following concepts are covered:
 * Adding comments using the ```#``` sign.
 * Choosing variable names wisely.
 
+#### Week 5
+
+These are the topics covered in week 5:
+
+![Week 5 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_5_Contents.png)
+
+Specifically, the following concepts are covered:
+* Comparison operators: < <= == != >= > .
+* Indenting, de-indenting and nexting as a way of identifying code blocks.
+* Conditional statement: One-way - if; two-way - if else; multi-way - if elif else.
+* The try / except structure.
+Note that the except path is executed even when the try block has been partially executed and then blows up.
+* Exiting code flow with quit().
+
+
