@@ -51,11 +51,22 @@ These are the topics covered in week 5:
 ![Week 5 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_5_Contents.png)
 
 Specifically, the following concepts are covered:
-* Comparison operators: < <= == != >= > .
-* Indenting, de-indenting and nexting as a way of identifying code blocks.
-* Conditional statement: One-way - if; two-way - if else; multi-way - if elif else.
-* The try / except structure.
-Note that the except path is executed even when the try block has been partially executed and then blows up.
-* Exiting code flow with quit().
+* Comparison operators: ```< <= == != >= >```.
+* Indenting, de-indenting and nesting as a way of identifying code blocks.
+* Conditional statement: One-way - ```if```; two-way - ```if else```; multi-way - ```if elif else```.
+* The ```try``` / ```except``` structure.
+Note that the except path is executed even when the try block has been partially executed before blowing up.
+* Exiting code flow with ```quit()```.
 
+#### Week 6
 
+These are the topics covered in week 6:
+
+![Week 6 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_6_Contents.png)
+
+Specifically, the following concepts are covered:
+* Types of functions: built-in and user-defined.
+* Defining functions with ```def```.
+* Passing parameters to functions.
+* Void and fruitful functions.
+* Returning values from a function using the ```return``` keyword.
