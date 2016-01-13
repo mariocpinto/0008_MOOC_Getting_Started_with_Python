@@ -70,3 +70,17 @@ Specifically, the following concepts are covered:
 * Passing parameters to functions.
 * Void and fruitful functions.
 * Returning values from a function using the ```return``` keyword.
+
+#### Week 7
+
+These are the topics covered in week 7:
+
+![Week 7 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_7_Contents.png)
+
+Specifically, the following concepts are covered:
+* Indefinite loops with ```while```.
+* Breaking out of a loop with ```break```.
+* Finishing an iteration with ```Continue```.
+* Definite loops with ```for``` and ```in```.
+* Loop examples: finding max value, counting, summing, averaging, filtering, searching.
+* The ```None```, ```is``` and ```is not`` keywords.
