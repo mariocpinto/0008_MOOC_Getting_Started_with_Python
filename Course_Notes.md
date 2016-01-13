@@ -87,4 +87,4 @@ Specifically, the following concepts are covered:
 
 #### Concluding Remarks
 
-This is a well-taught introductory course. The course instructor, Dr. Chuck is a very engaging teacher. I thoroughly enjoyed taking this course.If you have a background in programming in another language, it should be possible to go through this course pretty quickly.
+This is a well-taught introductory course. The course instructor, Dr. Chuck is a very engaging teacher. I thoroughly enjoyed taking this course. If you have a background in programming in another language, it should be possible to go through this course pretty quickly.
