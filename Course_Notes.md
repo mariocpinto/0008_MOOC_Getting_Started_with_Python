@@ -8,7 +8,7 @@ These are the topics covered in week 1:
 
 ![Week 1 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_1_Contents.png)
 
-The content introduces the learner to the Python programming language and also explains the mechanics of the course.
+The content introduces the learner to the Python programming language and also explains the mechanics of the course. The 'Python for Informatics' book that this course follows can be found in html format [here](http://www.pythonlearn.com/html-270/).
 
 #### Week 2 
 
@@ -35,7 +35,7 @@ These are the topics covered in week 4:
 ![Week 4 content of 'Getting Started with Python' MOOC](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python/blob/master/Images/Getting_Started_with_Python_Week_4_Contents.png)
 
 Specifically, the following concepts are covered:
-* Constants, variables and reserve words.
+* Constants, variables and [reserve words](https://docs.python.org/2.5/ref/keywords.html).
 * Assignments & numeric statements.
 * Operators: + - * / ** % - add, subtract, multiply, divide, power, modulus.
 * Operator precedence: brackets > power > div/mult > add/subtract; Left to right for equal priority operations.
@@ -83,4 +83,4 @@ Specifically, the following concepts are covered:
 * Finishing an iteration with ```Continue```.
 * Definite loops with ```for``` and ```in```.
 * Loop examples: finding max value, counting, summing, averaging, filtering, searching.
-* The ```None```, ```is``` and ```is not`` keywords.
+* The ```None```, ```is``` and ```is not``` keywords.
