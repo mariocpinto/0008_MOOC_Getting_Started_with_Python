@@ -84,3 +84,7 @@ Specifically, the following concepts are covered:
 * Definite loops with ```for``` and ```in```.
 * Loop examples: finding max value, counting, summing, averaging, filtering, searching.
 * The ```None```, ```is``` and ```is not``` keywords.
+
+#### Concluding Remarks
+
+This is a well-taught introductory course. The course instructor, Dr. Chuck is a very engaging teacher. I thoroughly enjoyed taking this course.If you have a background in programming in another language, it should be possible to go through this course pretty quickly.
